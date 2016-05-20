@@ -1,0 +1,19 @@
+{
+  "connection": {
+    "lily": {
+      "address": "c2r.nevod.ru",
+      "port": 12060,
+      "ontologyRepositoryName": "default",
+      "ontologyTableName": "OntologyArchivarius",
+      "archivariusRepositoryName": "default",
+      "archivariusTableName": "archivarius"
+    },
+    "solr": {
+      "address": "c2r.nevod.ru",
+      "port": 8983,
+      "ontologyCoreName": "OntologyArchivarius",
+      "archivariusCoreName": "archivarius"
+    }
+  },
+  "converter": "path/to/be/specified"  
+}

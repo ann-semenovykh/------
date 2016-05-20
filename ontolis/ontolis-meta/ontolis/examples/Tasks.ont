@@ -1,0 +1,340 @@
+{
+    "last_id": "284",
+    "namespaces": {
+        "default": "http://knova.ru/user/1457695823339",
+        "ontolis-avis": "http://knova.ru/ontolis-avis",
+        "owl": "http://www.w3.org/2002/07/owl",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema",
+        "xsd": "http://www.w3.org/2001/XMLSchema"
+    },
+    "nodes": [
+        {
+            "attributes": {
+            },
+            "id": "32",
+            "name": "Имитационное моделирование",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 1325.9166666666665,
+            "position_y": 443.14583333333337
+        },
+        {
+            "attributes": {
+            },
+            "id": "229",
+            "name": "Анализ сложных систем",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 620.75,
+            "position_y": 498.79166666666674
+        },
+        {
+            "attributes": {
+            },
+            "id": "233",
+            "name": "Нахождение тупиков в системе",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 435,
+            "position_y": 528.04166666666674
+        },
+        {
+            "attributes": {
+            },
+            "id": "227",
+            "name": "Проектирование сложных систем",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 630,
+            "position_y": 530.04166666666674
+        },
+        {
+            "attributes": {
+            },
+            "id": "228",
+            "name": "Прогнозирование поведения сложных систем",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 599.25,
+            "position_y": 458.79166666666674
+        },
+        {
+            "attributes": {
+            },
+            "id": "248",
+            "name": "Дискретно-событийное моделирование",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 209,
+            "position_y": 255
+        },
+        {
+            "attributes": {
+            },
+            "id": "194",
+            "name": "Модель компьютерной сети",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 1035.25,
+            "position_y": 744.29166666666697
+        },
+        {
+            "attributes": {
+            },
+            "id": "226",
+            "name": "Моделирование сетей Петри",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 387,
+            "position_y": 804.79166666666674
+        },
+        {
+            "attributes": {
+            },
+            "id": "34",
+            "name": "Моделирование компьютерных сетей",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 1052.6458333333339,
+            "position_y": 483.85416666666674
+        },
+        {
+            "attributes": {
+            },
+            "id": "31",
+            "name": "Задача",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 434.1041666666672,
+            "position_y": 387
+        },
+        {
+            "attributes": {
+            },
+            "id": "111",
+            "name": "Многомодельный подход",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 821.5,
+            "position_y": 590.625
+        },
+        {
+            "attributes": {
+            },
+            "id": "259",
+            "name": "Метод",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 200,
+            "position_y": 200
+        },
+        {
+            "attributes": {
+            },
+            "id": "235",
+            "name": "Дополнительное исследование системы",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 352,
+            "position_y": 498.04166666666674
+        },
+        {
+            "attributes": {
+            },
+            "id": "234",
+            "name": "Анализ потока трафика в системе",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 500,
+            "position_y": 561.04166666666674
+        },
+        {
+            "attributes": {
+            },
+            "id": "198",
+            "name": "Модель сети Петри",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "position_x": 731.75,
+            "position_y": 704.79166666666697
+        }
+    ],
+    "relations": [
+        {
+            "attributes": {
+            },
+            "destination_node_id": "31",
+            "id": "232",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "229"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "234",
+            "id": "240",
+            "name": "use-for",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "226"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "259",
+            "id": "260",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "248"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "198",
+            "id": "266",
+            "name": "use",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "111"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "31",
+            "id": "238",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "235"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "198",
+            "id": "268",
+            "name": "based-on",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "226"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "34",
+            "id": "214",
+            "name": "use-for",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "111"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "235",
+            "id": "239",
+            "name": "use-for",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "226"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "31",
+            "id": "231",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "228"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "228",
+            "id": "243",
+            "name": "use-for",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "34"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "31",
+            "id": "236",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "233"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "248",
+            "id": "250",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "34"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "227",
+            "id": "244",
+            "name": "use-for",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "34"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "31",
+            "id": "237",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "234"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "248",
+            "id": "249",
+            "name": "use",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "32"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "248",
+            "id": "251",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "226"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "233",
+            "id": "241",
+            "name": "use-for",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "226"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "31",
+            "id": "230",
+            "name": "is-a",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "227"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "229",
+            "id": "242",
+            "name": "use-for",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "34"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "194",
+            "id": "267",
+            "name": "use",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "111"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "194",
+            "id": "269",
+            "name": "based-on",
+            "namespace": "http://knova.ru/user/1457695823339",
+            "source_node_id": "34"
+        }
+    ],
+    "visualize_ont_path": ""
+}
